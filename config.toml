@@ -1,9 +1,9 @@
-baseurl = "https://example.com"
+baseurl = "https://hackathonnft.netlify.app"
 title = "HACKATON - Projet de commande PC"
 author = "Marc Garnier de Boisgrollier"
 canonifyurls = true
 paginate = 3
-theme = "hack"
+theme = "aether"
 themesDir = "./" 
 
 [params]
