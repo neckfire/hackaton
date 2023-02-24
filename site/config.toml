@@ -1,0 +1,16 @@
+baseurl = "https://example.com"
+title = "HACKATON - Projet de commande PC"
+author = "Marc Garnier de Boisgrollier"
+canonifyurls = true
+paginate = 3
+theme = "hack"
+themesDir = "./" 
+
+[params]
+    brand = "HACKATON"
+    description = "un projet développer en 2 jours par des jeunes"
+    headshotimg = "img/faceshot.jpg"
+
+[markup]
+  [markup.highlight]
+    style = "igor"
