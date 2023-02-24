@@ -1,5 +1,5 @@
 baseurl = "https://hackathonnft.netlify.app"
-title = "HACKATON - Projet de commande PC"
+title = "HACKATHON - Projet de commande PC"
 author = "Marc Garnier de Boisgrollier"
 canonifyurls = true
 paginate = 3
@@ -7,7 +7,7 @@ theme = "aether"
 themesDir = "./" 
 
 [params]
-    brand = "HACKATON"
+    brand = "HACKATHON"
     description = "un projet développer en 2 jours par des jeunes"
     headshotimg = "img/faceshot.jpg"
 
